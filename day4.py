@@ -1,4 +1,4 @@
-PART 1 SOLUTION
+#PART 1 SOLUTION
 
 def count_word_occurrences(grid, word):
     rows = len(grid)
